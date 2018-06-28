@@ -1,1 +1,3 @@
 # Mobilephone-cognitiveDissonance
+
+The  project  aimed  to  find  out  the  different  reasons  responsible  for  the  cognitive  dissonance among mobile handsets i.e. what are the characteristics and the dimensions due to which a person doesn’t like his/her phone in the first moment of truth and the consequent month. It also dealt with whether the users were satisfied with the product that was promised to them during purchasing and as shown in advertisements. We also aimed to find the possible solutions and improvements that can be made to a mobile phone so as to decrease the cognitive dissonance by conducting surveys, collecting the data and analyzing it.
